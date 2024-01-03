@@ -41,6 +41,8 @@ Application Architecture Diagram:
 |                             |
 +-----------------------------+
 
+![image](https://github.com/Ajdbst/XenonStack/assets/97408801/d4d4f9ff-573c-4740-8bd1-77aa994c119b)
+
 
 Task 2 :->
 
